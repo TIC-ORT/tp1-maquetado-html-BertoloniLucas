@@ -222,3 +222,83 @@ header {
     background-color: green;
     margin-right: 4vw;
 }
+
+.publicacion2{
+    margin-left: 30vw;
+    margin-top: 3vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.medio2{
+    display: flex;
+    flex-direction: column;
+    height: 22vh;
+    width: 35vw;
+    background-color: white;
+    margin-bottom: .5vh;
+}
+
+.lower2{
+    height: 6vh;
+    width: 35vw;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.subvdiv2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tipo1{
+    height: 10px;
+    width: 15px;
+    background-color: grey;
+    margin-right: 1vw;
+}
+
+.tipo2{
+    height: 6px;
+    width: 50px;
+    background-color: grey;
+}
+
+.arriba{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.circulo-prof-2{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: aquamarine;
+    margin-left: 2vw;
+    margin-top: 2vh;
+}
+
+.titulo2{
+    height: 2vh;
+    width: 10vw;
+    background-color: grey;
+    margin-top: 4vh;
+    margin-left: 3vw;
+}
+
+.abajo{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2vh;
+}
+
+.texto2{
+    height: 2vh;
+    width: 30vw;
+    background-color: grey;
+    margin-top: 2vh;
+    margin-left: 1.5vw;
+}
