@@ -132,3 +132,28 @@ header {
     display: flex;
     justify-content: center;
 }
+
+.suelto{
+    background-color: white;
+    height: 6vh;
+    width: 200px;
+    margin-top: 3vh;
+    margin-left: 5vw;
+}
+
+.container-cuadrados{
+    background-color: white;
+    border: 10px white solid;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 10px; 
+    width: 200px;
+    margin-left: 5vw;
+    margin-top: 2.5vh;
+}
+
+.cuadrado {
+    width: 60px;
+    height: 60px;
+    background-color: rgb(0, 174, 255);
+}
